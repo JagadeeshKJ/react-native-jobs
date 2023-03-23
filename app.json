@@ -1,10 +1,16 @@
 {
   "expo": {
     "scheme": "acme",
+    "icon": "./assets/jobs.jpeg",
+    "splash": {
+      "image": "./assets/jobs.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "web": {
       "bundler": "metro"
     },
-    "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "name": "find-jobs",
+    "slug": "find-jobs"
   }
 }
